@@ -1,0 +1,42 @@
+module corbaConversion{
+    //IConversionRemote déclare la méthode convertirMontant que l'objet distant peut appeler
+    interface IConversionRemote{
+    //Cette méthode prend un argument en entrée de type double appelé "mt" et retourne de type double
+         double convertirMontant(in double mt);
+};
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //in lil java inout lil c nhthtr variable mtaay
